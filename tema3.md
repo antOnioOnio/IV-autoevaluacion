@@ -13,16 +13,14 @@ Se ha instalado postman
 
 ## Ejercicio 2.
 
-### 2.1
- Instalar a partir de docker una imagen alternativa de Ubuntu y alguna adicional, por ejemplo de CentOS.
+### 2.1 Instalar a partir de docker una imagen alternativa de Ubuntu y alguna adicional, por ejemplo de CentOS.
 
 ![](./images/pullUbuntu.png)
 
 
 ![](./images/pullCentos.png)
 
-### 2.2
-Buscar e instalar una imagen que incluya MongoDB.
+### 2.2 Buscar e instalar una imagen que incluya MongoDB.
 
 ![](./images/pullMongo.png)
 
