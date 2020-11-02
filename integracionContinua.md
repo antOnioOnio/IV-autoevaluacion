@@ -15,3 +15,5 @@ Creamos nuestro archivo [.trayvis.yml](https://github.com/antOnioOnio/TenisLeagu
 
 ![](./images/travisFirstTest.png)
 
+## Ejercicio 10. Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
+![](./images/configTravis.png)
