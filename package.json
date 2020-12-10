@@ -1,0 +1,27 @@
+{
+  "name": "iv-autoevaluacion",
+  "version": "1.0.0",
+  "description": "Repositorio donde se guardan ejercicios de autoevaluación de la asignatura IV",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antOnioOnio/IV-autoevaluacion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antOnioOnio/IV-autoevaluacion/issues"
+  },
+  "homepage": "https://github.com/antOnioOnio/IV-autoevaluacion#readme",
+  "dependencies": {    
+    "etcd": "0.0.3",
+    "etcd3": "^1.1.0",
+    "etcdctl": "^1.1.4",
+    "express": "^4.17.1",
+    "node-etcd": "^7.0.0"
+  },
+  "devDependencies": {}
+}
